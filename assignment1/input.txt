@@ -1,0 +1,5 @@
+Compiler construction exercise.
+
+Would the following input streams be accepted by a(a|b|c)*b
+abc
+ghabcAaasklabc
